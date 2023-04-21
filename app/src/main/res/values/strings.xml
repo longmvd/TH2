@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TH2</string>
+    <string-array name="category">
+        <item>Shopping</item>
+        <item>Tiền ăn</item>
+        <item>Tiền nhà</item>
+        <item>Tiền điện</item>
+    </string-array>
+</resources>
